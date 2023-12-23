@@ -15,7 +15,7 @@ VinBrain, Vietnam - website: [https://vinbrain.net](https://vinbrain.net)
   * Developed domain adaptation techniques for robust and generalizable models.
   * Implemented Human-in-the-loop pipeline for continuous data processing and model improvement.
 
-* **AI Research Assistant** | Sep 2020 - Dec 2020  \
+* **AI Research Intern** | Sep 2020 - Dec 2020  \
 Vingroup BigData Institute, Vietnam - website: [https://institute.vinbigdata.org/en/research](https://institute.vinbigdata.org/en/research)
   * Built models for Sentiment Analysis and Medical Tube Multi-label Classification.
   * Completed training in seven courses: Linear Algebra, Probability & Statistics, AI Ethics, Machine Learning, Deep Learning, Computer Vision, NLP.
