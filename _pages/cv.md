@@ -27,7 +27,7 @@ Viettel BigData Analytics Center, Vietnam - website: [https://viettel.com.vn/en/
 
 Research Interests
 ======
-* Anomaly Detection, Computer Vision, Reliable and Generalizable Models.
+* My research interest lies in the intersection of Anomaly Detection, Computer Vision, AI models continuously adaptable to changing data environments, and their applications to real-world domains such as healthcare and economics.
 
 Publications
 ======
