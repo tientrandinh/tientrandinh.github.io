@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tran Dinh Tien"
   avatar           : "profile.png"
-  bio              : "I am interested in Anomaly Detection, Computer Vision, Generalizable and Reliable AI models"
+  bio              :  # "I am interested in Anomaly Detection, Computer Vision, Generalizable and Reliable AI models"
   location         : "Vietnam"
   employer         :
   pubmed           : 
